@@ -40,4 +40,4 @@ MIT
 
 ## Author Information
 
-This role was created in 2017 by [Mohammed A. Imran](https://www.secfigo.com/), author of [Practical DevOps Course](https://www.teachera.io/devsecops-course/).
+This role was created in 2017 by [Mohammed A. Imran](https://www.secfigo.com/), author of [Practical DevSecOps Course](https://www.teachera.io/devsecops-course/).
