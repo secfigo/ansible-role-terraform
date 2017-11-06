@@ -1,0 +1,33 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: secfigo 
+  description: "Terraform for Linux"
+  company: "Teachera Community"
+  license: "license (MIT)"
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
+    - name: Debian
+      versions:
+      - all
+  galaxy_tags:
+    - development
+    - system
+    - image
+    - box
+    - virtualbox
+    - vagrant
+    - ami
+    - aws
+    - droplet
+    - packaging
+    - build
+    - terraform 
+    - hashicorp 

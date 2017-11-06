@@ -12,7 +12,7 @@ None.
 
 Available variables are listed below, along with default values (see `defaults/main.yml`):
 
-    terraform_version: "1.0.0"
+    terraform_version: "0.10.8"
 
 The Packer version to install.
 
